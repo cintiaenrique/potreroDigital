@@ -1,0 +1,41 @@
+ul {
+    list-style: none;
+}
+
+.navbar {
+    font-weight: bold;
+    padding: 1%;
+}
+
+.btn-whatsapp {
+    display: block;
+    width: 70px;
+    height: 70px;
+    color: #fff;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 50%;
+    line-height: 80px;
+    text-align: center;
+    z-index: 999;
+}
+
+#divLogoFooter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#logoFooter {
+    width: 50%;
+    margin-left: 25%;
+}
+
+#footer {
+    margin: 2%;
+}
+
+#divSuscribirse {
+    margin-left: 0%;
+}
